@@ -70,10 +70,4 @@ This project implements a Telegram bot using Node.js. The bot can respond to pre
 - ModelsLab API: Provides AI-powered responses for custom queries
 - ngrok: Exposes the local server to the internet
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License.
